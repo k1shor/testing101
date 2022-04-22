@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is from second file.
+=======
+Hello
+>>>>>>> 0bd199e5bd85f36190af3ebbb26c887cfbfa64d7
+
+
